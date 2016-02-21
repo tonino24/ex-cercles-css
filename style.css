@@ -1,0 +1,64 @@
+body {
+  background-image: linear-gradient(to left, white, black);
+}
+.C1 {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  border-radius: 50%;
+  height: 220px;
+  width: 220px
+}
+.C2 {
+  position: absolute;
+  background: red;
+  opacity: 0.5;
+  bottom: 15px;
+  left: 15px;
+  border-radius: 50%;
+  border: 1px solid red;
+  height: 200px;
+  width: 200px
+}
+.C3 {
+  position: absolute;
+  background: grey;
+  opacity: 0.5;
+  bottom: 15px;
+  right: 15px;
+  border-radius: 50%;
+  border: 1px solid grey;
+  height: 200px;
+  width: 200px
+}
+.C4 {
+  position: absolute;
+  background: yellow;
+  opacity: 0.5;
+  top: 15px;
+  left: 15px;
+  border-radius: 50%;
+  border: 1px solid yellow;
+  height: 200px;
+  width: 200px
+}
+.C5 {
+  position: absolute;
+  background: white;
+  opacity: 0.5;
+  bottom: 15px;
+  left: 15px;
+  border-radius: 50%;
+  border: 1px solid white;
+  height: 190px;
+  width: 190px
+}
+
+.pointI {
+  text-align: center;
+  color: white ;
+  position:absolute;
+  top: 50% ;
+  left:50% ;
+  font-size: 30px ;
+}
